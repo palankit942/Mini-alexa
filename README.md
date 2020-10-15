@@ -11,10 +11,6 @@
 
   ```
   os module is present in all systems by default
-- Test them
-  ```
-
-  ```
 
 - Set path of the softwares you want to open
 # And Now we are good to go...
